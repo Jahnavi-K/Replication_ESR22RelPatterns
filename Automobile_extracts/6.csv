@@ -1,0 +1,26 @@
+App,Ver,Date,Notes
+Simply Auto: Car Maintenance &,50.1.1.1,"Mar 24, 2022",Bug fix for overlapping text
+Simply Auto: Car Maintenance &,49.1.1.1,"Mar 10, 2022",-Updated save icon-Increased font size on the log table~Other bug fixes
+Simply Auto: Car Maintenance &,48.1.1.1,"Feb 17, 2022",Bugfix for Total Cost calculation
+Simply Auto: Car Maintenance &,47.1.1.3,"Feb 7, 2022","-Easy access to delete Vehicles, Fill-ups, services, Expenses etc added~bug fixes"
+Simply Auto: Car Maintenance &,46.1.2.1,"Jan 22, 2022",- Fixed crashes- Fixed service type delete bug
+Simply Auto: Car Maintenance &,45.1.1.1,"Jan 12, 2022",- Fixed Crashes
+Simply Auto: Car Maintenance &,44.0.6.1,"Dec 25, 2021",-Vehicle Documents for Platinum members~Fixed Bugs and crashes
+Simply Auto: Car Maintenance &,43.1.1.1,"Dec 24, 2021",~Fixed Crashes
+Simply Auto: Car Maintenance &,42.1.5.1,"Oct 12, 2021",-Performance Improvements In sync-Google Drive Backup bug-Other bug fixes
+Simply Auto: Car Maintenance &,41.1.1.1,"Sep 4, 2021",-PDF support for receipts for PRO users
+Simply Auto: Car Maintenance &,40.1.1.1,"Aug 25, 2021","- Can use ',' in Notes now~bug fix on the 'Service Date' on reminder screen~other small fixes"
+Simply Auto: Car Maintenance &,39.1.1.4,"Jul 28, 2021",+ Updated the receipt file server~ Big improvements in syncing of receipts~ Improvements in syncing data between drivers~ Fixed edit/delete of service and expense tasks
+Simply Auto: Car Maintenance &,38.1.1.4,"May 31, 2021",~bug fixes & Enhancements
+Simply Auto: Car Maintenance &,37.1.1.2,"May 12, 2021",-New Last Odo help text added while adding Fuel/services/expenses~Bug Fixes
+Simply Auto: Car Maintenance &,36.1.1.1,"Apr 1, 2021",-Add only odometer values
+Simply Auto: Car Maintenance &,35.1.1.1,"Mar 3, 2021",~Bug with reports~Fixed Crash
+Simply Auto: Car Maintenance &,34.0.1.1,"Feb 11, 2021",-Fixed Issue with Date and Time selection-Fixed Crash
+Simply Auto: Car Maintenance &,33.0.1.1,"Jan 27, 2021",-Crash & Bug fixes
+Simply Auto: Car Maintenance &,32.0.1.1,"Jan 15, 2021",-Crash & Bug fixes
+Simply Auto: Car Maintenance &,31.0.1.3,"Dec 31, 2020",- Adding One-time platinum payment option. No Yearly subscription.~ Minor Bug fixes
+Simply Auto: Car Maintenance &,29.0.1.3,"Nov 5, 2020",-Changes to UI~Fixed crashes
+Simply Auto: Car Maintenance &,28.0.1.2,"Oct 14, 2020",-Apple Sign In-UI UX updates~Fixed crashes
+Simply Auto: Car Maintenance &,27.0.1.1,"Sep 16, 2020",~ Bug Fixes for Crash
+Simply Auto: Car Maintenance &,26.0.1.1,"Aug 5, 2020",~ Google Drive Backup and Restore bug resolved
+Simply Auto: Car Maintenance &,25.1.1.0,"Jun 5, 2020",+ Minor UI/UX updates~ Sync failure bug resolved

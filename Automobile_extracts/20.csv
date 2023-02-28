@@ -1,0 +1,126 @@
+App,Ver,Date,Notes
+ARI (Auto Repair Software),10.2.0,"Dec 22, 2022","- Square payments
+You can now process online payments via Square!
+- SMS marketing
+Send mass SMS campaigns to all your contacts
+- Grid views for Service Reminders, Accounting, Tires, Services
+- Select multiple Parts and Services when creating invoices
+- Detail views for Clients, Vehicles, and JobCards
+- you can Expand each item and see relating data.
+- Set default measurement unit (miles, KM, hours) in ARI Settings
+- Expose tech names on Activities
+- add description to inspection Photos
+- new employee role restrition. Allow Clock In only for themselves!
+- Set clients as Tax Extempt and skip taxes automatically
+-
+- Bug fixes
+- Wisetack phone error fixed
+- missing Vendors and Inspection issues fixed
+- Print jobcards issues fixed
+- Custom template in inspection not clearing values fixed
+- Assign inspection to JobCard fixed
+"
+ARI (Auto Repair Software),10.1.0,"Nov 12, 2022","Biggest update for 2022 - Oct- migration to faster servers with real-time sync between devices- Labor guides using ProDemand- SMS functionality for web- advanced vehicle lookup. - menu shortcut
+- appointment/ working hours setup per day
+- add your own image to appointment page
+- new PID decoder
+- Inventory auto-adjust basd on item ID
+- mass editing option for Parts in Inventory
+- parts markup matrix
+- bug fixes"
+ARI (Auto Repair Software),10.0.5,"Nov 5, 2022","Biggest update for 2022 - Oct- migration to faster servers with real-time sync between devices- Labor guides using ProDemand- SMS functionality for web- advanced vehicle lookup - menu shortcut
+- appointment/ working hours setup per day
+- add your own image to appointment page
+- new PID decoder
+- Inventory auto-adjust basd on item ID
+- mass editing option for Parts in Inventory
+- parts markup matrix"
+ARI (Auto Repair Software),9.9.9,"Sep 4, 2022",Carfax vehicle history fixcurrency list updateWisetack additions
+ARI (Auto Repair Software),9.9.8,"Jul 18, 2022",Integration with Wisetack for offering financing options to your clients!Do you have vehicle owners who can't afford the cost of your repair services?Activate financing options for them so they pay later while you get paid now!
+ARI (Auto Repair Software),9.9.7,"May 17, 2022","- Complete redesign of the Online Appointment page and setup- drag and drop functionality for Calendar- support for blocking-service page redesigned- add custom fields to your online booking form. - auto-confirm appointment
+-Inspection ID auto increments when new inspection added.
+-Update inventory when delete part from existing Invoice
+-Print long invoices on multiple pages.
+- Attach Inspection to JobCard from the Jobcard/More menu
+- Create JobCard from Appointments
+"
+ARI (Auto Repair Software),9.9.6,"Apr 26, 2022",Fixed the SMS functionality;
+ARI (Auto Repair Software),9.9.5,"Apr 21, 2022",- POS terminal integration for processing on-site payments- online payment processing for auto repair invoices
+ARI (Auto Repair Software),9.9.3,"Feb 10, 2022",- 360Payments integration for online invoice payments- multi-language support- bug fixes
+ARI (Auto Repair Software),9.9.0,"Jan 6, 2022","- POS terminal integration (you can now process in-person payments)- Mark invoice as Paid button-  Hide Parts Price if role not view_invoices- Vendors and Warehouse inputs in Invoice/Parts- Add appointments to your calendar. - Create duplicate invoice option
+- Add source to customers (eg. Apple, Facebook, etc.)
+- Better Inspection Checklist reordering
+- Create an Invoice from appointment
+- Add vehicle to Parts as in Suitable For
+- Standard service reminders intervals
+- Added company info to Inspection
+- add Inspection damage templates
+- GridView for Payments
+- ... many bug fixes and improvements!
+"
+ARI (Auto Repair Software),9.8.4,"Oct 28, 2021","- Dashboard (unpaid invoices, last payments, purchases, expenses, profit, etc.)- Email Marketing- Inspection templates (Level 1 inspection, Pre-sale inspection, Heavy-duty inspection, Motorcycle inspection)- fixed marketing sending error- fixed picture upload issue"
+ARI (Auto Repair Software),9.8.2,"Oct 20, 2021","- Dashboard (unpaid invoices, last payments, purchases, expenses, profit, etc.)- Email Marketing- Inspection templates (Level 1 inspection, Pre-sale inspection, Heavy-duty inspection, Motorcycle inspection)- fixed marketing sending error"
+ARI (Auto Repair Software),9.8.0,"Oct 19, 2021","- Dashboard (unpaid invoices, last payments, purchases, expenses, profit, etc.)- Email Marketing- Inspection templates (Level 1 inspection, Pre-sale inspection, Heavy-duty inspection, Motorcycle inspection)"
+ARI (Auto Repair Software),9.7.1,"Sep 30, 2021","Bug fixes:- items id not saving (fixed)- sum for subTotal on Invoices- change Jobcards dates in Settings- multi-line support in Profile/MyCompany Other. - reports/Taxes added SubTotal and export info
+- client page improvements
+- web mails will look as if coming from your email address
+- make/model selection improvements
+- price markup for tires
+"
+ARI (Auto Repair Software),9.7.0,"Sep 16, 2021","- Workflow: simply drag and drop jobcards to change statuses- Grid View (better filters for Inventory, Invoices, Clients and Vehicles)- Employee Payslip (Accounting/Expenses can now register Items list and also auto-import employee worked hours)- Print and PDF generation improvements- inventory update. - Part Tracking History (see what parts have been used in what jobs)"
+ARI (Auto Repair Software),9.6.6,"Jul 20, 2021","- group parts and labor according to their relevance.Makes it very easy for your clients to read and understand your invoices.- sorting for Parts, Tires, Clients- alphabetical scrollbar for Parts inventory- multiple parts markup. - allow manual ordering from Purchases straight
+- inventory count update fix
+- exposed unit number for vehicles
+- added invoice numbers to Purchases
+- send Payments to QuickBooks
+- attach receipts to Expenses
+- send local notif when job assigned (multiple users)
+"
+ARI (Auto Repair Software),9.6.5,"Jun 2, 2021","- QR codes on Invoice- search online appointment with QR code- multi-lines support- vendors report- edit issues in JobCards. - text-align left on Invoices
+- print improvements
+- speed improvements
+"
+ARI (Auto Repair Software),9.6.3,"May 4, 2021","Major release + bug fixes:- PartsTech integration (US & Canada)- Tax settings change default;- support for multiple lines on invoice- Tax reports Invoices/Expenses/Purchases. - Payment dropdown fix
+- add fields to the online booking page;
+- barcode crash fixed
+- sub expired bug fixed
+"
+ARI (Auto Repair Software),9.6.0,"May 1, 2021","Major release:- PartsTech integration (US & Canada)- Tax settings change default;- support for multiple lines on invoice- Tax reports Invoices/Expenses/Purchases. - Payment dropdown fix
+- add fields to the online booking page;
+"
+ARI (Auto Repair Software),9.5.2,"Mar 9, 2021","- QuickBooks auto sync- Payment section- year 2021 added to Vehicles- Profit is now subtracting discount and taxes- Net Profit reports. - Notes for Client
+- show Paid on Invoices
+- added Vendors to Parts and Reports
+- speed improvements
+- bugs removed"
+ARI (Auto Repair Software),9.5.1,"Dec 31, 2020","- Packages: bundle parts and services together so you can easily use them in your invoices. (eg. a package like Oil Change Package can contain filters, oils, and labor items. When you select it, all these items will be added to the invoice)- Update labor time after clock out- Update stock Quantity after invoice saved- Search purchases by tags- Delete expenses. - added vehicle types: Snowmobile, UTV or SidexSide or SxS, and PWC or Personal Water Craft
+- bug fixes
+"
+ARI (Auto Repair Software),9.4.4,"Dec 10, 2020","- tax on Purchases- labels on Purchases- new employee roles- 3Cs( Concern, Cause, Correction)- Discount & Other can be Taxable/NOT Taxable. - Written Off & Void invoices
+- Deferred Services
+- Recommended Services/Parts
+- Client Authorization/Decline on recommended items (Estimates)
+- Remove Item without editing
+- Activity Logs (Team Activity & Client Activity)
+- Automatic notification for Client activity
+- Days off and Holidays mark on Calendar
+- Bug fixes (Invoice sorting, page speed, )"
+ARI (Auto Repair Software),9.3.0,"Nov 8, 2020","- bug fixes for ios14- buy part when status is ""needed""- edit online appointment- delete employee"
+ARI (Auto Repair Software),9.2.0,"Oct 29, 2020","- appointments custom link flow and checks- hide passcode in user login- client labels- vehicle labels- quick notes load in Warranty. - jobcard# in timelogs
+- hide items in invoice option
+- search for vendors
+- ODO in and ODO out
+- add category to inventory report
+- delete category option
+- client name and veh info to SMS
+- new report for clients and vehicles
+- delete pics in inventory
+- user logout access
+- jobcard progress bar
+- archive jobcards
+- comments to JobCards
+- inspection in jobcard
+- time clocks in jobcards
+-major bug fixes and updates
+"
+ARI (Auto Repair Software),9.0.0,"Oct 13, 2020","Huge update for 2020- multiple users access control- additions to Purchases- bug fixes such as QuickBooks, Stripe connect, etc.- support for ios 14. - speed improvements"

@@ -1,0 +1,26 @@
+App,Ver,Date,Notes
+EOBD Facile: OBD 2 Car Scanner,3.4.9,"Feb 8, 2023",- Add fault code definitions for VAG- Solve an issue with Renault/Dacia to display real time sensors- Improvements for Jeep
+EOBD Facile: OBD 2 Car Scanner,3.4.8,"Dec 15, 2022",- Solve an issue with VAG TP2.0 protocol (only for klavkarr device)- Add fault description for Mini and VAG
+EOBD Facile: OBD 2 Car Scanner,3.4.7,"Nov 22, 2022",- Add ECU reference for Renault/Dacia transmission- Improve reading of fault for Mercedes- Improvement for Ducati and KTM bikes
+EOBD Facile: OBD 2 Car Scanner,3.4.6,"Oct 7, 2022",- Add ECU reference for Renault/Dacia engine- Add brand Cupra and Lynk&Co- New icon
+EOBD Facile: OBD 2 Car Scanner,3.4.5,"Aug 25, 2022",- Improvement for Volvo cars produced after 2018
+EOBD Facile: OBD 2 Car Scanner,3.4.4,"Aug 4, 2022","- Improvement for BMW- Improve oil and maintenance reset for Mercedes, Renault and Dacia"
+EOBD Facile: OBD 2 Car Scanner,3.4.3,"Jul 18, 2022",- Review of status display. The display is now done in the same screen as the faults
+EOBD Facile: OBD 2 Car Scanner,3.4.2,"Jun 22, 2022",- Improvement for Renault Zoe (Phase 1 and 2)
+EOBD Facile: OBD 2 Car Scanner,3.4.1,"May 22, 2022",- Add data for Peugeot 3008 II- Improvement for Toyota / Lexus (Transmission ECU)
+EOBD Facile: OBD 2 Car Scanner,3.4.0,"May 6, 2022","Add and improve DTC description for many brands: Volkswagen, Audi, Seat, Mercedes, BMW, Mini, Renault, Dacia."
+EOBD Facile: OBD 2 Car Scanner,3.3.9,"Mar 19, 2022",New icon
+EOBD Facile: OBD 2 Car Scanner,3.3.8,"Mar 15, 2022","- New application icon- Add actuator test for Renault / Dacia only available with klavkarr device- Improvement for service data on PSA, Fiat and BMW vehicle"
+EOBD Facile: OBD 2 Car Scanner,3.3.7,"Feb 5, 2022",- Added actuator tests for Renault and Dacia available only with klavkarr interfaces- Improvements for VOLVO vehicles (specific protocol)- Improvements of maintenance data on VAG
+EOBD Facile: OBD 2 Car Scanner,3.3.6,"Jan 13, 2022",- Add actuator test for Peugeot Peugeot 206 / 207 /307 and Citroen C2 / C3 I / C4 I only available with klavkarr device- Solve display issue with zero value “-0.0”- Solve an issue when recording last way used with graphics
+EOBD Facile: OBD 2 Car Scanner,3.3.5,"Nov 23, 2021",- Improvement for Electric cars- Improvement for Renault/Dacia
+EOBD Facile: OBD 2 Car Scanner,3.3.4,"Oct 26, 2021",- Improvement for Toyota vehicle (Lexus and Scion)- Improvement for Land Rover- Improve connexion with ELM327 (ECU 0x41)
+EOBD Facile: OBD 2 Car Scanner,3.3.3,"Sep 3, 2021",- Add Transmission data for VAG- Improve performance test
+EOBD Facile: OBD 2 Car Scanner,3.3.2,"Aug 6, 2021","- Addition of VAG data in KW1281 protocol (only works with klavkarr)- Addition of data for hybrid or electric vehicles or Stop & Start systems for Ford / Mazda, Peugeot, Jeep / Chrysler vehicles- Fixes an issue when selecting ECU to diagnose"
+EOBD Facile: OBD 2 Car Scanner,3.3.1,"Jul 2, 2021","- Solve an issue when displaying number of DTC- Improvement for Suzuki (Engine, Transmission, Service)- Improvement for Land Rover (Transmission)"
+EOBD Facile: OBD 2 Car Scanner,3.3.0,"Jun 10, 2021",- Solve an issue when selecting ECU to diagnose
+EOBD Facile: OBD 2 Car Scanner,3.2.0,"May 26, 2021",- New icon to select the ECU to diagnose from main screen- Improvement for Honda / Acura- Add data for Peugeot RCZ and 2008
+EOBD Facile: OBD 2 Car Scanner,3.1.1,"May 12, 2021",- Improve VAG TP2.0 protocol (only available wth klavkarr)- Add data for Fiat / Alfa Romeo / Jeep Renegade (2.0 Turbo 16V / 2.2 MultiJet 16V)
+EOBD Facile: OBD 2 Car Scanner,3.1.0,"Apr 21, 2021",- Add data for Peugeot 508 I and 3008 I- Improve reading of frozen data
+EOBD Facile: OBD 2 Car Scanner,3.0.0,"Feb 20, 2021","- Add data for Mercedes ECUs- Add data for Peugeot 3008 I- Improve reading of frozen data- Improve scan for VAG vehicles (Volkswagen, Audi, Seat, Skoda)- Improve connection stability on Renault / Dacia"
+EOBD Facile: OBD 2 Car Scanner,2.9.0,"Jan 15, 2021","Improvement for VAG vehicle (Volkswagen, Audi, Seat, Skoda)- Better support for KW1281 protocol (available only with klavkarr)- Add data for KW2089 protocol- Add data for UDS protocol"

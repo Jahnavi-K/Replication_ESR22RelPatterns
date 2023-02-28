@@ -1,0 +1,70 @@
+App,Ver,Date,Notes
+Car Launcher,7.3.5,"Feb 4, 2023","This version contains some UI issues with the device notch reported by users and added the ability to set the transparency of the information dashboard.
+
+Enjoy & Drive safely!
+
+previous version:
+
+Redesinged the main layout to allow you to set the buttons size.
+
+Added a recent actions side menu for quicker access.
+
+Added navigation instructions on main screen.
+
+Added a shortcut from the mini-player to maximize to the full sized player.
+
+Added memory-map to shortcut navigation app list.
+"
+Car Launcher,7.3,"Jan 17, 2023",Redesinged the main layout to allow you to set the buttons size.Added a recent actions side menu for quicker access.Added navigation instructions on main screen.Added a shortcut from the mini-player to maximize to the full sized player.Added memory-map to shortcut navigation app list. Fixed some bugs & stability issues.
+Car Launcher,7.2,"Sep 27, 2022","Previous version allowed you to customize your iCarMode's background.This version adds the option to customize the colors to match your background image or your car's color.While at it, also crashed some bugs :-)Enjoy & Drive Safely!"
+Car Launcher,7.1.5,"Aug 8, 2022",This version includes mainly bug fixes and some minor improvements.
+Car Launcher,7.1,"Jul 15, 2022","In this version the focus was improving the user experience in iCarMode's music player.Bigger tiles, easier search, filter & the ability for you to manage your favorite music in your next drive.Enjoy & Drive Safely!"
+Car Launcher,7.0.2,"Apr 24, 2022","Bug fixes.Version 7.0 turns iCarMode payment model to subscription, but not without some great new features included:- Turn-by-Turn navigation built-in in iCarMode, no need to go back and forward to an external navigation app (unless you really want to...).- Podcasts player included as part of the subscription, no need to purchase it separately.- Custom background image - you can choose your own background (don't forget to tag @icarmode_ with your designs).- Siri shortcuts to automate playing your favorite radio station or start your drive with a good podcast.
+
+
+
+- Many tweaks and bugs you reported were handled.
+
+
+
+- Legacy user? you can enjoy the same iCarMode you know without subscribing, but you'll miss all these premium features (and more to come...) - support us by subscribing (special discount for legacy users included).
+
+
+
+As always - Enjoy & Drive Safely!"
+Car Launcher,7.0,"Apr 21, 2022","This version turns iCarMode payment model to subscription, but not without some great new features included:- Turn-by-Turn navigation built-in in iCarMode, no need to go back and forward to an external navigation app (unless you really want to...).- Podcasts player included as part of the subscription, no need to purchase it separately.- Custom background image - you can choose your own background (don't forget to tag @icarmode_ with your designs).- Siri shortcuts to automate playing your favorite radio station or start your drive with a good podcast.- Many tweaks and bugs you reported were handled.
+
+- Legacy user? you can enjoy the same iCarMode you know without subscribing, but you'll miss all these premium features (and more to come...) - support us by subscribing (special discount for legacy users included).
+
+As always - Enjoy & Drive Safely!
+"
+Car Launcher,6.5.15,"Sep 30, 2021",Small compatibility issues with new iPad-mini and iOS 15.Bug fixes.
+Car Launcher,6.5.1,"Aug 6, 2021",- Music quick launch now contains recent played music from AppleMusic and Spotify- Set default volume for music/radio/podcasts player.- Direct run of a specific shortcut from Shortcuts App by name.- Even more radio stations added to the list.- Bug fixes.
+Car Launcher,6.5.0,"Aug 4, 2021",- Music quick launch now contains recent played music from AppleMusic and Spotify- Set default volume for music/radio/podcasts player.- Direct run of a specific shortcut from Shortcuts App by name.- Even more radio stations added to the list.- Bug fixes.
+Car Launcher,6.0.2,"Jun 10, 2021",Bug fixes.Following users requests added Flitsmeister to shortcuts.Enjoy & Drive Safely!
+Car Launcher,6.0.1,"May 5, 2021",Bug fixesImproved battery efficiency in motion detection related features
+Car Launcher,6.0.0,"Apr 23, 2021","Podcasts - Finally, a long awaited feature - iCarMode now have it's own integrated Podcasts player. You can mark your favorite podcasts and listen both online and offline without leaving iCarMode!!Landscape enhancements - Tab-bar moved to the top to make more room, much better user experience for users using iCarMode in landscape orientation. Enjoy!Now Playing - Floating 'Now Playing' bar, you can now move around the app and still have control on what is playing: music, radio or podcast.Better support for iPhone12 devices and iOS14 compatibility.A few more tweaks in settings and bug fixes.for the full list, visit our site: https://www.iCarMode.com"
+Car Launcher,5.7.4,"Aug 22, 2020","Floating toolbar in all map features for bigger view.Radio stations can now be searched by name and not just by browsing through the huge radio stations index.Following user requests: added Docs to shortcuts list & also ""what 3 words"" (as a shortcut as well as navigation app).Crashed some nasty bugs and stability issues.Enjoy & Drive Safely!"
+Car Launcher,5.7.3,"Jul 6, 2020","You were listening to a cool playlist before you've entered the car? tap ""Just Play"" to do just that..Other than that...some bug fixes & stability issues..thank you for sharing, feel free to contact me at support@iCarMode.com on any issue or suggestion.Enjoy & Drive Safely!"
+Car Launcher,5.7,"May 24, 2020","- Added notification badge (for ""Parking meter"" & ""Where did I park?"" features).- Following users request added Tidal & YouTube Music.- Fixed some bugs and stability issues."
+Car Launcher,5.6.2,"Apr 11, 2020",- TomTom Go was added to the list of navigation apps shortcuts.- More shortcuts are allowed in the Contacts screen.
+Car Launcher,5.6,"Mar 16, 2020","This version was dedicated mainly to handle some visual & stability issues.Thank you for reporting!Here are some of the issues, see iCarMode website for the full list:- 'InRoute' was added to the list of navigation apps.- Settings now allow to choose weather unit. - Increased font size in 'Places' & 'Radio'.
+
+- Zoom display issues.
+- Text display issues in settings under dark-mode.
+- Internal map crashes sometimes.
+- Stability issues with Spotify integration.
+"
+Car Launcher,5.5,"Feb 22, 2020","- New info dashboard with a clock and current weather.- Better support for iPads of all sizes.- Siri support, allows to include iCarMode in your Shortcuts - would like iCarMode to open automatically every time you enter your car? see iCarMode website to see how...- Bug fixes."
+Car Launcher,5.4.4,"Oct 21, 2019",Some fixes for reported bugs - thank you for your feedback!Previous version (5.4) included:- iCarMode Auto theme applies new iOS Dark Mode!- iOS 13 compatability issues and improvements.- Following users requests - Online-Radio-Box added to the list of shortcuts. - Internal Maps supports turn-by-turn navigation & speaks the navigation instructions.
+Car Launcher,5.4,"Oct 14, 2019",iCarMode Auto theme applies new iOS Dark Mode!iOS 13 compatability issues and improvements.Following users requests - Online-Radio-Box added to the list of shortcuts.Internal Maps support turn-by-turn navigation & speaks the navigation instructions.Bug fixes and improvements.
+Car Launcher,5.3,"Sep 18, 2019","Following users requests - improved music player user interface and experience - If you're not happy tell us, if you're happy tell others!"
+Car Launcher,5.2,"Aug 19, 2019",Radio Player bug fixes you reported.
+Car Launcher,5.1,"Jul 22, 2019","Following users feedback:- On the new music player design: added to 'quick-launch' the last 5 playlists played and the option to choose if 'Your Library' includes cloud items or completely offline.- Added Stitcher and Shortcuts to shortcut list.- Fixed some nasty bugs.Version 5.0:
+------------
+- Redesigned music player for better user experience.
+- Music player now has built-in integration with both AppleMusic and Spotify.
+- Due to many user requests - iCarMode now has a built-in Radio Player.
+- Added what3words to the GPS shortcuts list.
+- Bug fixes."
+Car Launcher,5.0,"Jul 14, 2019",- Redesigned music player for better user experience.- Music player now has built-in integration with both AppleMusic and Spotify.- Due to many user requests - iCarMode now has a built-in Radio Player.- Added what3words to the GPS shortcuts list.- Bug fixes.

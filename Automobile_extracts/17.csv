@@ -1,0 +1,32 @@
+App,Ver,Date,Notes
+Automotive Dictionary,4.0.220,"Jan 20, 2023",- bug fixes
+Automotive Dictionary,4.0.219,"Jan 7, 2023",- bug fixes
+Automotive Dictionary,4.0.218,"Jan 6, 2023",- bug fixes
+Automotive Dictionary,4.0.217,"Nov 10, 2022",- bug fixes
+Automotive Dictionary,4.0.216,"Oct 23, 2022",- bug fixes
+Automotive Dictionary,4.0.215,"Oct 3, 2022",- bug fixes
+Automotive Dictionary,4.0.214,"Oct 2, 2022",- bug fixes
+Automotive Dictionary,4.0.211,"Sep 1, 2022",- bug fixes
+Automotive Dictionary,4.0.203,"Jul 25, 2022","- NEW (Premium): you can add an additional driver. All information added to the app is shared among all drivers. Drivers have a limited access to data (they can edit own events only, read-only access to other data).
+
+- NEW (Premium Business): you can add multiple additional drivers and manage their access rights. You can also select which vehicles a driver can access.
+
+- Other fixes and enhancements.
+"
+Automotive Dictionary,4.0.199,"Jul 11, 2022","- NEW (Premium): you can add an additional driver. All information added to the app is shared among all drivers. Drivers have a limited access to data (they can edit own events only, read-only access to other data).- NEW (Premium Business): you can add multiple additional drivers and manage their access rights. You can also select which vehicles a driver can access.- Other fixes and enhancements."
+Automotive Dictionary,4.0.197,"Jul 7, 2022","- NEW (Premium): you can add an additional driver. All information added to the app is shared among all drivers. Drivers have a limited access to data (they can edit own events only, read-only access to other data).- NEW (Premium Business): you can add multiple additional drivers and manage their access rights. You can also select which vehicles a driver can access.- Other fixes and enhancements."
+Automotive Dictionary,4.0.196,"Jul 3, 2022","- NEW (Premium): you can add an additional driver. All information added to the app is shared among all drivers. Drivers have a limited access to data (they can edit own events only, read-only access to other data).- NEW (Premium Business): you can add multiple additional drivers and manage their access rights. You can also select which vehicles a driver can access.- Other fixes and enhancements."
+Automotive Dictionary,3.0.193,"Jun 21, 2022",- bug fixes
+Automotive Dictionary,3.0.192,"Feb 19, 2022",- bug fixes
+Automotive Dictionary,3.0.188,"Dec 22, 2021",- bug fixes
+Automotive Dictionary,3.0.187,"Dec 19, 2021",- bug fixes
+Automotive Dictionary,3.0.185,"Nov 28, 2021",- bug fixes
+Automotive Dictionary,3.0.180,"Oct 8, 2021",- bug fixes
+Automotive Dictionary,3.0.178,"Sep 15, 2021","- Improved PDF reports.- Added new CSV reports (Premium).- Improved service reminders.- Show event notes in the event list.- Reminders: new intervals ""10 years"" and ""6 years”. - Updated Hungarian translation.
+- Other fixes and enhancements."
+Automotive Dictionary,3.0.172,"Aug 27, 2021",- Updated translations.- Show the number of overdue reminders on the Reminders tab.- Show the status of overdue reminders in red text.- Fixes to ownership statistics.
+Automotive Dictionary,3.0.169,"Aug 24, 2021","- New PDF report ""Profit and Loss"" (Premium)- Improved data entry in the vehicle page.- Added fields for the selling information to the vehicle page.- Improved sign in (allow sign in even if Premium not activated yet and do not sign out automatically).- Recurring service reminders: calculate the next odometer value from the odometer value of the previous service event. - Other fixes and enhancements."
+Automotive Dictionary,3.0.167,"Jul 26, 2021",- bug fixes
+Automotive Dictionary,3.0.166,"Jul 21, 2021","- added support for new fuel efficiency units (electric vehicles): Wh/km, Wh/mi, kWh/100 km, kWh/100 mi, km / kWh and mi / kWh- bug fixes"
+Automotive Dictionary,3.0.161,"Jul 15, 2021","- fixed: Sign in with Apple not working- improved CSV import to include also services, expenses and incomes"
+Automotive Dictionary,3.0.159,"Jul 12, 2021",- A new read-only page for viewing vehicle information.- Allow attaching documents to vehicle data.- Added note field to trips PDF report.- Internal changes to improve performance and stability.- Bug fixes and other enhancements.
